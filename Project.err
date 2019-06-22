@@ -1,0 +1,5 @@
+FRM-30047: Cannot resolve item reference ADMIN.ADMINID.
+Item: CUSTOMERS_ID
+Block: CUSTOMERS
+Form: INVENTORY_MGT_SYSTEM
+FRM-30085: Unable to adjust form for output.
